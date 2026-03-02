@@ -1,11 +1,11 @@
 {
   "devDependencies": {
-    "@jscpd/badge-reporter": "^4.0.1",
+    "@jscpd/badge-reporter": "^4.0.4",
     "@templ-project/eslint": "^1.3.0",
     "@templ-project/prettier": "^1.1.0",
     "husky": "^9.1.7",
-    "jscpd": "^4.0.5",
-    "lint-staged": "^16.2.6"
+    "jscpd": "^4.0.8",
+    "lint-staged": "^16.3.1"
   },
   "scripts": {
     "duplicate-check": "npx -y jscpd cmd/ pkg/"
